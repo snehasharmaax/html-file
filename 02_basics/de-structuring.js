@@ -4,14 +4,27 @@ const course = {
     courseInstructor : "sneha"
 }
 
-course.courseInstructor
+// course.courseInstructor
 
 const {courseInstructor: instructor} = course
 
-// console.log(courseInstructor);
 console.log(instructor);
 
-const navbar = (company) => {
 
-}
 
+// const navbar = ({company}) => {
+// }
+// navbar(company = "Sneha")
+
+
+// {                            // => JSON
+//     "name": "Sneha",
+//     "courseName": "JS in hindi",
+//     "price": "free"
+// }
+
+[
+    {},
+    {},
+    {}
+]
