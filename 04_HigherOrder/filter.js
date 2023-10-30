@@ -10,7 +10,7 @@ const coding = ["js", "ruby", "java", "python", "cpp"]
 const myNums = [1,2,4,4,6,7,8,4,3,3]
 
 // const newNums = myNums.filter( (num) => {
-//     return num > 4
+//     return num * 4
 // })
 // console.log(newNums);
 
